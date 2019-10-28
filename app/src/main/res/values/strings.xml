@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="name">Lucas Diniz</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="what_is_your_email">What is your E-mail?</string>
+    <string name="done">Done</string>
+</resources>
